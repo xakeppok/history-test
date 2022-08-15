@@ -1,3 +1,2 @@
+change 1
 Hello from develop
-new string
-another string
